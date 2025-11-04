@@ -18,7 +18,3 @@ Thumbs.db
 models/*.pkl
 models/*.h5
 models/*.joblib
-
-# Datos 
-data/raw/
-data/processed/
