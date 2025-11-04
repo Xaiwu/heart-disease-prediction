@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# heart-disease-prediction
 
 ## Estructura del proyecto
 ```text
