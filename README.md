@@ -1,5 +1,11 @@
 # heart-disease-prediction
 
+## Equipo
+- Marcos Martínez
+- Gabriel Castillo
+- Jesús Guevara
+- Daniel Támaro
+
 ## Estructura del proyecto
 ```text
 /.
@@ -8,15 +14,10 @@
 ├─ requirements.txt
 │
 ├─ data/
-│  ├─ raw/                # Datos originales (no modificar) 
-│  └─ processed/          # Datos limpios y listos para modelado
+│  └─ raw/                # Datos originales 
 │
 ├─ notebooks/              # Notebooks (experimentos)
 │
-├─ src/                    # Código fuente (Código limpio y reutilizable)
-│  
-├─ models/                 # Modelos entrenados
-│ 
 └─ reports/
    └─ figures/             # Gráficos y visualizaciones
 ```
